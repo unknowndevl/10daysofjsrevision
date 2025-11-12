@@ -2,6 +2,16 @@ Day 1: Fundamentals & Syntax
 Topics to Cover:
 
 Variables (var, let, const) and scope
+
+<img width="573" height="417" alt="variables" src="https://github.com/user-attachments/assets/8c058afc-ecf3-48d9-9ef7-b3a4680d209b" />
+
+
+
+
+
+
+
+
 Data types (primitives: string, number, boolean, null, undefined, symbol, bigint)
 Type conversion and coercion
 Operators (arithmetic, comparison, logical, assignment)
