@@ -2,7 +2,6 @@ Day 1: Fundamentals & Syntax
 Topics to Cover:
 
 Variables (var, let, const) and scope
-
 Data types (primitives: string, number, boolean, null, undefined, symbol, bigint)
 Type conversion and coercion
 Operators (arithmetic, comparison, logical, assignment)
